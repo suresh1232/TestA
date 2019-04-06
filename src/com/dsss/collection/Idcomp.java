@@ -13,6 +13,7 @@ public class Idcomp implements Comparator<Product> {
 			return 1;
 		else
 			return -1;
+return "Suresh";
 			
 	}
 
