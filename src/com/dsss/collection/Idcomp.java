@@ -16,6 +16,8 @@ public class Idcomp implements Comparator<Product> {
 		return "Suresh test";
 System.out.println("done");
 
+System.out.println("Test");
+System.out.println("Test");
 
 
 			
